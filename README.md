@@ -20,7 +20,7 @@ Be sure to set the `STANZA_CONFIG` variable as shown after installing.
 ### Tips
 
 
-[`stz`] provides a simple wrapper for executing one-liners and running scripts.
+[`stz`], a fish shell function, provides a simple wrapper for executing one-liners and running scripts.
 
 ```fish
 brew install fisher

@@ -1,2 +1,3 @@
-# homebrew-lbstanza
-L.B. Stanza Homebrew formulae
+# My Homebrew Formulae
+
+* [L.B. Stanza] compiler (Currently only supports Linux)

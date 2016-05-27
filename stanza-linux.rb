@@ -1,4 +1,4 @@
-class Lbstanza < Formula
+class LbstanzaLinux < Formula
   desc "An optionally-typed, general-purpose programming language from the University of California, Berkeley."
   homepage "http://lbstanza.org"
   url "http://lbstanza.org/resources/stanza/lstanza.zip"

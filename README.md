@@ -1,3 +1,3 @@
 # My Homebrew Formulae
 
-* [L.B. Stanza] compiler (Currently only supports Linux)
+* [L.B. Stanza](http://lbstanza.org) compiler (Currently only supports Linux)

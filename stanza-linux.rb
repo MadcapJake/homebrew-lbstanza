@@ -2,9 +2,9 @@ class StanzaLinux < Formula
   desc "An optionally-typed, general-purpose programming language from the University of California, Berkeley."
   homepage "http://lbstanza.org"
   url "http://lbstanza.org/resources/stanza/lstanza.zip"
-  sha256 "885b9fd8105f5c39129e6c1d2dd51155354ad3715d56e7ac351058a0e0f7ac56"
+  sha256 "33e0892280f38fb103d84dc99f5e84c6fe8996f40f97946712123a28cabca75e"
   head "https://github.com/StanzaOrg/lbstanza.git"
-  version "0.9.1"
+  version "0.9.3"
 
   def install
     system("./stanza", "install", "-platform", "linux", "-path", prefix)

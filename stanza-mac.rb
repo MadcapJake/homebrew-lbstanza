@@ -1,8 +1,8 @@
 class StanzaMac < Formula
   desc "An optionally-typed, general-purpose programming language from the University of California, Berkeley."
   homepage "http://lbstanza.org"
-  url "http://lbstanza.org/resources/stanza/lstanza_0_10_0.zip"
-  sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  url "http://lbstanza.org/resources/stanza/stanza_0_10_0.zip"
+  sha256 "c8de8084703eb57bbeaec8ded22d614ec08868f018ce1779be1b338573783af3"
   head "https://github.com/StanzaOrg/lbstanza.git"
   version "0.10.0"
 

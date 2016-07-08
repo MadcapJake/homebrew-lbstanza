@@ -3,14 +3,23 @@
 [L.B. Stanza](http://lbstanza.org) is an optionally-typed, general-purpose langauge.  I've only tested the linux version so please submit issues if you have any problems with the Mac version.
 
 
-### Linux
+### Install
+
+#### Linux
 ```sh
 brew install MadcapJake/lbstanza/stanza-linux
 ```
 
-### Mac
+#### Mac
 ```sh
 brew install MadcapJake/lbstanza/stanza-mac
+```
+
+#### Upgrading
+
+```sh
+brew update # Pulls new tap commits
+brew upgrade stanza-linux # installs latest version of stanza
 ```
 
 ### Caveats

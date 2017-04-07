@@ -1,10 +1,10 @@
 class StanzaMac < Formula
   desc "An optionally-typed, general-purpose programming language from the University of California, Berkeley."
   homepage "http://lbstanza.org"
-  url "http://lbstanza.org/resources/stanza/stanza_0_10_5.zip"
-  sha256 "c9209b9e82c6fc4c4867810b08a073d775b0af7b5fec93fae1c5416b58d4c705"
+  url "http://lbstanza.org/resources/stanza/stanza_0_11_7.zip"
+  sha256 "3415c6888289d4a58c928744417be07373f63afd253ce099cf9e482e804589d6"
   head "https://github.com/StanzaOrg/lbstanza.git"
-  version "0.10.5"
+  version "0.11.7"
 
   def install
     system("./stanza", "install", "-platform", "linux", "-path", prefix)

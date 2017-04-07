@@ -3,7 +3,6 @@ class StanzaMac < Formula
   homepage "http://lbstanza.org"
   url "http://lbstanza.org/resources/stanza/stanza_0_11_7.zip"
   sha256 "3415c6888289d4a58c928744417be07373f63afd253ce099cf9e482e804589d6"
-  head "https://github.com/StanzaOrg/lbstanza.git"
   version "0.11.7"
 
   def install

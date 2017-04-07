@@ -3,7 +3,6 @@ class StanzaLinux < Formula
   homepage "http://lbstanza.org"
   url "http://lbstanza.org/resources/stanza/lstanza_0_11_7.zip"
   sha256 "87f59bf4ad42c76bee7b141fc860c79ee39890acbcf46effec58cb0a17350ffb"
-  head "https://github.com/StanzaOrg/lbstanza.git"
   version "0.11.7"
 
   def install
